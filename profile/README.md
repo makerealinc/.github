@@ -4,7 +4,7 @@ Welcome to the GitHub organization for Make Real, Inc.! We are a company dedicat
 
 ## Our Mission
 
-At Make Real, Inc., our mission is two-fold. We are a profit-driven organization, but above all, we are passionate about crafting exceptional and immersive experiences for our guests. We believe that technology is the key to unlocking new possibilities and pushing the boundaries of traditional entertainment attractions. By embracing the latest advancements, we strive to astonish and delight our visitors, leaving them with lasting memories and a desire for more.
+At Make Real, Inc., our mission is two-fold. We are passionate about crafting exceptional and immersive experiences for our guests. We believe that technology is the key to unlocking new possibilities and pushing the boundaries of traditional entertainment attractions. By embracing the latest advancements, we strive to astonish and delight our visitors, leaving them with lasting memories and a desire for more.
 
 ## The Bureau Adventure Games
 
